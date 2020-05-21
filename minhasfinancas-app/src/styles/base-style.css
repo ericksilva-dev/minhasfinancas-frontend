@@ -1,0 +1,12 @@
+.backgroundLogin{height: 100vh; background: #004B30; float: left;}
+.backgroundDefault{background: #F5F7F8;}
+.backgroundLogin h1{text-align: center; text-transform: uppercase; font-weight: bold; color: #FFF; padding: 10px 0px;}
+.backgroundLogin p{text-align: center; font-size: 18px; color: #FFF;}
+.boxLogin{height: 70%; width: 500px; background: #FFF; padding: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 0 auto; margin-top: 30px; border-radius: 10px;}
+.input {width: 90%; height: 60px; margin: 35px 0; border: 0px; border-bottom: 2px solid #DDD; outline: none; color: #26BF4C;}
+.btnPrimary{width: 70%; height: 65px; border-radius: 10px; color: #FFF; font-size: 22px; font-weight: bold;text-transform: uppercase; background: #26BF4C;}
+
+.menuItems{height: 100vh; background: #26BF4C;}
+.menuItemList{list-style: none; float: left; margin: 15% 0; padding: 0;}
+.menuItemList li{display: inline-block; width: 100%; background: #00F;}
+.menuItemList li a{display: block; color: #FFF; height: 60px; width: 100%; background: #004B30; float: left; padding: 20px 5px;}
